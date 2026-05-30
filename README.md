@@ -9,6 +9,7 @@
 | 6-thunderloan-audit     | Solidity | 3H, 2M, 3L, 4I, 3G | Oracle | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/Audits/2025-12-14-thunder-loan-audit.pdf) | CodeHawks |
 | 7-boss-bridge-audit 	  | Solidity | 8H, 1M, 3L, 1I     | Bridge | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/Audits/2026-01-22-boss-bridge-audit.pdf) | CodeHawks |
 | 8-vault-guardians-audit | Solidity |      | Defi  | [Report]() |  |
+| Santas List             | Solidity | 6H, 1M             | NFT    | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/Audits/2026-05-27-Santas-List-Audit-Report.pdf) | CodeHawks |
 
 
 
