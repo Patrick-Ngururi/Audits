@@ -12,19 +12,3 @@
 | Santas List             | Solidity | 6H, 1M             | NFT    | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/Audits/2026-05-27-Santas-List-Audit-Report.pdf) | CodeHawks |
 
 
-
-# Risk Classification
-
-|            |        | Impact |        |     |
-| ---------- | ------ | ------ | ------ | --- |
-|            |        | High   | Medium | Low |
-|            | High   | H      | H/M    | M   |
-| Likelihood | Medium | H/M    | M      | M/L |
-|            | Low    | M      | M/L    | L   |
-
-We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate-a-finding-severity) severity matrix to determine severity. See the documentation for more details.
-
-
-# Disclaimer
-
-Patrick makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the Solidity implementation of the contracts.
