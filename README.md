@@ -1,5 +1,4 @@
 # CodeHawks
-## Issues found
                         
 | Audit 				  |Language  | Findings           | Type   | Report              | Patform |
 | ----------------------- | -------- | ------------------ | ------ | ------------------- | ------- |
